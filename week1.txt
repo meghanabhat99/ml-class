@@ -1,0 +1,3 @@
+
+learnt about supervised and unsupervised
+now at cost function
